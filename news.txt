@@ -1,1 +1,2 @@
 News 1: Salam!!
+News 2: Hello!!
